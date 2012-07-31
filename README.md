@@ -1,0 +1,4 @@
+mpc
+===
+
+manage panel core
